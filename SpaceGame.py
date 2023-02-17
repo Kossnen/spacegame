@@ -1,6 +1,3 @@
-# Ronald Coeyman
-
-
 # Import os to use os.system('cls') later on.
 # Clear doesn't work in PyCharm. However, works as intended once compiled.
 import os
